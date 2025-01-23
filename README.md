@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohd Faisal Wani
 
-<!--
-**faysalwani/faysalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **About Me:**  
+- 🌱 I recently graduated in B.Sc. IT and plan to pursue M.Sc. IT soon.  
+- 💻 I specialize in web development and am exploring software development.  
+- 📚 I love teaching and simplifying tough concepts for others.  
 
-Here are some ideas to get you started:
+⚡ **Skills & Interests:**  
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Node.js, Express  
+- Databases: Basic SQL and NoSQL  
+- Always open to learning new things!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **What I’m working on:**  
+- Personal projects to sharpen my web dev and software dev skills.  
+- Exploring data analysis to broaden my career prospects.  
+
+📫 **Let’s Connect:**  
+[LinkedIn](www.linkedin.com/in/fay-salwani) | [Instagram](https://www.instagram.com/fay_salwani/)
+
+🚀 **Fun Fact:** I enjoy breaking down complex topics into simpler, understandable concepts!
+
+---
+
+### 🌟 GitHub Stats 🌟
+
+![Mohd Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalwani&show_icons=true&theme=radical)
+
+---
+
