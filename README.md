@@ -25,6 +25,7 @@
 ### 🌟 GitHub Stats 🌟
 
 ![Mohd Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalwani&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalwani&layout=compact&theme=radical)
 
 ---
 
