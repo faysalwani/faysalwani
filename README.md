@@ -16,7 +16,7 @@
 - Exploring data analysis to broaden my career prospects.  
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/fay-salwani) | [Instagram](https://www.instagram.com/fay_salwani/)
+[Portfolio](https://www.faisalwani.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fay-salwani) | [Instagram](https://www.instagram.com/fay_salwani/)
 
 🚀 **Fun Fact:** I enjoy breaking down complex topics into simpler, understandable concepts!
 
