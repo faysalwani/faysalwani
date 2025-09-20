@@ -37,7 +37,7 @@
 ---
 
 ## 🌐 Connect With Me  
-- [🌍 Portfolio](https://faisalwani.vercel.app/)  
+- [🌍 Portfolio](https://faysalwani.vercel.app/)  
 - [💼 LinkedIn](https://www.linkedin.com/in/fay-salwani)  
 - [📷 Instagram](https://www.instagram.com/fay_salwani/)  
 
