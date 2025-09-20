@@ -1,34 +1,54 @@
-# Hi there! 👋 I'm Mohd Faisal Wani
+# 👋 Hi, I'm Mohd Faisal Wani  
 
-🔭 **About Me:**  
-- 🌱 I recently graduated in B.Sc. IT and plan to pursue M.Sc. IT soon.  
-- 💻 I specialize in web development and am exploring software development.  
-- 📚 I love teaching and simplifying tough concepts for others.  
-
-⚡ **Skills & Interests:**  
-- Frontend: HTML, CSS, JavaScript, React.js  
-- Backend: Node.js, Express  
-- Databases: Basic SQL and NoSQL  
-- Always open to learning new things!  
-
-🌟 **What I’m working on:**  
-- Personal projects to sharpen my web dev and software dev skills.  
-- Exploring data analysis to broaden my career prospects.  
-
-📫 **Let’s Connect:**  
-[Portfolio](https://faisalwani.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/fay-salwani) | [Instagram](https://www.instagram.com/fay_salwani/)
-
-🚀 **Fun Fact:** I enjoy breaking down complex topics into simpler, understandable concepts!
+🎓 **M.Sc. AI & ML Student | Software Developer | Frontend Developer | Aspiring Data Scientist**  
 
 ---
 
-### 🌟 GitHub Stats 🌟
-
-![Mohd Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalwani&show_icons=true&theme=radical)
+## 🚀 About Me  
+- 🎓 Graduated with **B.Sc. Information Technology (2021–2024)** from NIELIT Srinagar  
+- 📚 Currently pursuing **M.Sc. Artificial Intelligence & Machine Learning (2024–2026)**  
+- 💻 Passionate about **frontend development, software engineering, and AI/ML**  
+- 🌱 Continuously learning **data science, machine learning, and backend development**  
+- ⚡ Love building **scalable applications** and exploring new technologies  
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalwani&layout=compact&theme=radical)
+## 🛠️ Skills  
+
+**Frontend Development**  
+- React.js, Tailwind CSS, JavaScript, HTML, CSS  
+
+**Backend & Databases**  
+- Node.js, Express.js, MongoDB, SQL (basics)  
+
+**AI & Data Science (Learning)**  
+- Python, NumPy, Pandas, Matplotlib, Machine Learning Basics  
+
+**Other Tools**  
+- Git & GitHub, REST APIs, Problem Solving  
 
 ---
 
+## 📌 Current Focus  
+- 🔭 Building **projects in frontend & full-stack development**  
+- 📊 Exploring **data analysis & ML models**  
+- 🚀 Preparing for a career at the intersection of **software development and data science**  
+
+---
+
+## 🌐 Connect With Me  
+- [🌍 Portfolio](https://faisalwani.vercel.app/)  
+- [💼 LinkedIn](https://www.linkedin.com/in/fay-salwani)  
+- [📷 Instagram](https://www.instagram.com/fay_salwani/)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Mohd Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalwani&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalwani&layout=compact&theme=tokyonight)  
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”*  
